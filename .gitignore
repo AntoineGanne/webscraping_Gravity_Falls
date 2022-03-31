@@ -1,0 +1,13 @@
+# Created by pytest automatically.
+.idea/*
+.pytest_cache/*
+.venv/*
+.vscode/*
+
+tests/__pycache__/*
+__pycache__/*
+
+mysql_instance/*
+
+docs/*
+
